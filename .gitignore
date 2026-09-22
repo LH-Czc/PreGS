@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PreGS generated experiment results
+output_gat_vs_pregs/
